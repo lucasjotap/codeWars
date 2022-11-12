@@ -1,2 +1,2 @@
 # codeWars
-A repository to store my solution to programming exercises.
+A repository to store my solutions to programming exercises.
