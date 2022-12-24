@@ -24,4 +24,4 @@ def adicional_limpeza():
             print("Valor invalido")
             continue
     return acumulador
-print("Preco final da funcao: R$ {:.2f}".format(adicional_limpeza()))
+print("Preço final da funcao: R$ {:.2f}".format(adicional_limpeza()))
