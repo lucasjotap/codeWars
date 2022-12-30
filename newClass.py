@@ -48,9 +48,6 @@ class ElectricCar(Car):
         super().__init__(make, model, year)
         self.battery = Battery()
 
-    
-
-
 # my_car = Car("Audi", "a5", 2016)
 # print(my_car.get_descriptive_name())
 # my_car.update_odometer(50)
@@ -65,4 +62,3 @@ class ElectricCar(Car):
 my_car = ElectricCar("Tesla", "Model S", "2018")
 print(my_car.get_descriptive_name())
 my_car.battery.describe_battery()
-
